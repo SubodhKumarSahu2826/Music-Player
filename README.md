@@ -30,7 +30,8 @@ A simple and interactive **Music Player** application that allows users to play,
    ```
 
 ## Screenshots 📸
-*(Add images or GIFs showcasing the UI and functionality)*
+![Uploading image.png…]()
+
 
 ## Future Enhancements 🚀
 - 🎙️ Voice command support
